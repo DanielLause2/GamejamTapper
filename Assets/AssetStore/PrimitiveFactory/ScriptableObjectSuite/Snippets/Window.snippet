@@ -1,0 +1,17 @@
+using PrimitiveFactory.ScriptableObjectSuite;
+using UnityEditor;
+
+public class @ClassName@Window : ScriptableObjectEditorWindow<@ClassName@>
+{
+	// Name of the object (Display purposes)
+	protected override string c_ObjectName { get { return "@ClassName@"; } }
+	// Relative path from Project Root
+	protected override string c_ObjectFullPath { get { return "@FullPath@"; } }
+
+	[MenuItem("@MenuPath@")]
+	public static void ShowWindow()
+	{
+		@ClassName@Window window = GetWindow<@ClassName@Window>("@ClassName@ Editor");
+		window.Show();
+	}
+}
