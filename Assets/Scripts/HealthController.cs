@@ -3,7 +3,7 @@
 public class HealthController : MonoBehaviour
 {
     public int MaxHealth;
-    public int Current;
+    public int CurrentHealth;
 
     void Start()
     {
@@ -12,5 +12,14 @@ public class HealthController : MonoBehaviour
     void Update()
     {
 
+    }
+
+    public void RemoveHealth(int amount)
+    {
+        CurrentHealth -= amount;
+        if (CurrentHealth <= 0)
+        {
+            //Gameover;
+        }
     }
 }
