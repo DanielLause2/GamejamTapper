@@ -1,0 +1,22 @@
+Agenda Game Jam
+
+- freie Bewegung
+- Melee/Range, Laufen/Stehen
+- 2 Räume
+- Raum Upgrade
+- Gegner
+
+
+Coding:
+- Attack Controller
+- Gegner (AI)
+- Dungeon Generator
+- Player Controller
+
+Art:
+- Main Character
+- Gegner
+- Art, Rigging, Animation (Move(Left, Right, Top, Bottom, Diagonal), Attack(Melee/Range), Death, Idle)
+- Particle Effects
+- Dungeon/Raum Tiles (optional)
+- UI, Menu + Ingame (optional)

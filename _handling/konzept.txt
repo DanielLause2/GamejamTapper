@@ -1,0 +1,7 @@
+Konzept:
+
+- freie Bewegung
+- Melee/Range, Laufen/Stehen
+- Dungeon = mehrere Räume
+- Nach einem Raum neue Upgrades -> altes abgeben
+- Nach einem Dungeon Character Aufwertungen
