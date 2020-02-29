@@ -2,27 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerMovementController : MonoBehaviour
 {
     [SerializeField] private bl_Joystick Joystick;
     [SerializeField] private float MovementSpeed;
 
-
-    void Awake()
-    {
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
+    public bool IsMoving => Joystick.IsDraged;
 
     private void FixedUpdate()
     {

@@ -7,16 +7,18 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
 
     [Header("Settings")]
-    [SerializeField, Range(1, 15)]private float Radio = 5;//the ratio of the circumference of the joystick
-    [SerializeField, Range(0.01f, 1)]private float SmoothTime = 0.5f;//return to default position speed
+    [SerializeField, Range(1, 15)] private float Radio = 5;//the ratio of the circumference of the joystick
+    [SerializeField, Range(0.01f, 1)] private float SmoothTime = 0.5f;//return to default position speed
     [SerializeField, Range(0.5f, 4)] private float OnPressScale = 1.5f;//return to default position speed
     public Color NormalColor = new Color(1, 1, 1, 1);
     public Color PressColor = new Color(1, 1, 1, 1);
-    [SerializeField, Range(0.1f, 5)]private float Duration = 1;
+    [SerializeField, Range(0.1f, 5)] private float Duration = 1;
 
     [Header("Reference")]
-    [SerializeField]private RectTransform StickRect;//The middle joystick UI
+    [SerializeField] private RectTransform StickRect;//The middle joystick UI
     [SerializeField] private RectTransform CenterReference;
+
+    public bool IsDraged;
 
     //Privates
     private Vector3 DeathArea;
@@ -55,7 +57,7 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
             this.enabled = false;
             return;
         }
-       
+
         //Get the default area of joystick
         DeathArea = CenterReference.position;
         diff = CenterReference.position.magnitude;
@@ -110,6 +112,8 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
                 backImage.CrossFadeColor(PressColor, Duration, true, true);
                 stickImage.CrossFadeColor(PressColor, Duration, true, true);
             }
+
+            IsDraged = true;
         }
     }
 
@@ -124,7 +128,7 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         {
             isFree = false;
             //Get Position of current touch
-            Vector3 position = bl_JoystickUtils.TouchPosition(m_Canvas,GetTouchID);
+            Vector3 position = bl_JoystickUtils.TouchPosition(m_Canvas, GetTouchID);
 
             //Rotate into the area circumferential of joystick
             if (Vector2.Distance(DeathArea, position) < radio)
@@ -158,6 +162,8 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
                 backImage.CrossFadeColor(NormalColor, Duration, true, true);
                 stickImage.CrossFadeColor(NormalColor, Duration, true, true);
             }
+
+            IsDraged = false;
         }
     }
 
@@ -169,9 +175,9 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     {
         float _time = 0;
 
-            while (_time < Duration)
-            {
-                Vector3 v = StickRect.localScale;
+        while (_time < Duration)
+        {
+            Vector3 v = StickRect.localScale;
             if (increase)
             {
                 v = Vector3.Lerp(StickRect.localScale, PressScaleVector, (_time / Duration));
@@ -181,11 +187,11 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
                 v = Vector3.Lerp(StickRect.localScale, Vector3.one, (_time / Duration));
             }
             StickRect.localScale = v;
-                _time += Time.deltaTime;
-                yield return null;
-            }
+            _time += Time.deltaTime;
+            yield return null;
+        }
     }
-    
+
 
     /// <summary>
     /// Get the touch by the store touchID 
@@ -208,6 +214,12 @@ public class bl_Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 
     private float radio { get { return (Radio * 5 + Mathf.Abs((diff - CenterReference.position.magnitude))); } }
     private float smoothTime { get { return (1 - (SmoothTime)); } }
+
+    /// <summary>
+    /// Value Horizontal of the Joystick
+    /// Get this for get the horizontal value of joystick
+    /// </summary>
+
 
     /// <summary>
     /// Value Horizontal of the Joystick
