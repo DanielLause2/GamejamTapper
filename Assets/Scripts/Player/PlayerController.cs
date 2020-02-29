@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -21,6 +19,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        attackController.CharakterIsMoving = playerMovementController.IsMoving;
+        attackController.RangeActive = !playerMovementController.IsMoving;
+        attackController.MeeleActive = playerMovementController.IsMoving;
     }
 }

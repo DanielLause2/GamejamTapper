@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2534815916892746118}
   - component: {fileID: 1681923829}
   - component: {fileID: 1681923830}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Joystick: {fileID: 0}
-  MovementSpeed: 1
+  MovementSpeed: 0.3
 --- !u!114 &1681923829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113,17 +113,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AttackActive: 1
   Enemy: 0
-  Attackspeed: 5
-  Damage: 1
+  Attackspeed: 1.5
   MeeleActive: 0
+  MeeleDamage: 2
   Range: 1
   RangeActive: 0
-  ArrowSpawnPosition: {fileID: 4550695486230146842}
-  ArrowPrefab: {fileID: 7997079091824810683, guid: 75d830eed7b7bd74fb2c13f102eb4a93,
+  RangeDamage: 1
+  ProjectileSpawnPosition: {fileID: 2139458170238553672}
+  ProjectilePrefab: {fileID: 3568048018219328582, guid: 75d830eed7b7bd74fb2c13f102eb4a93,
     type: 3}
-  ArrowSpeed: 1
-  ArrowAmount: 1
-  CharakterIsMoving: 0
+  ProjectileSpeed: 1
+  ProjectileAmount: 1
 --- !u!114 &1681923830
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -145,7 +145,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4550695486230146842}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
