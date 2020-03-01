@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 5935844769132914442, guid: 5c66ec4e2e00b144ab74e0e40fb62a19,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -360,17 +360,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AttackActive: 1
   Enemy: 0
-  Attackspeed: 1.5
+  Attackspeed: 1.3
   MeeleActive: 0
+  MeeleAnimator: {fileID: 0}
   MeeleDamage: 2
   Range: 1
   RangeActive: 0
+  RangeAnimator: {fileID: 230315872}
   RangeDamage: 1
-  ProjectileSpawnPosition: {fileID: 2139458170238553672}
-  ProjectilePrefab: {fileID: 3568048018219328582, guid: 75d830eed7b7bd74fb2c13f102eb4a93,
+  ProjectilePrefab: {fileID: 2905687524947797207, guid: 75d830eed7b7bd74fb2c13f102eb4a93,
     type: 3}
-  ProjectileSpeed: 1
+  ProjectileSpeed: 2
   ProjectileAmount: 1
+  projectileSpawnPositionUp: {fileID: 4550695486230146842}
+  projectileSpawnPositionDown: {fileID: 1690411083}
+  projectileSpawnPositionLeft: {fileID: 925971746}
+  projectileSpawnPositionRight: {fileID: 1532647029}
 --- !u!114 &1681923830
 MonoBehaviour:
   m_ObjectHideFlags: 0
