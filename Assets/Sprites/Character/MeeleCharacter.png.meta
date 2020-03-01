@@ -1,0 +1,4975 @@
+fileFormatVersion: 2
+guid: a14b192fb83bb3e4784d0fea5cdbaf2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3426033864915282428
+    second: MeeleCharacter_0
+  - first:
+      213: -4455541674983058224
+    second: MeeleCharacter_1
+  - first:
+      213: 4973780647134813157
+    second: MeeleCharacter_2
+  - first:
+      213: -2865655381773554062
+    second: MeeleCharacter_3
+  - first:
+      213: -4550311981765022624
+    second: MeeleCharacter_4
+  - first:
+      213: -7011524562677170361
+    second: MeeleCharacter_5
+  - first:
+      213: 8332789803730971887
+    second: MeeleCharacter_6
+  - first:
+      213: -6142741956103404330
+    second: MeeleCharacter_7
+  - first:
+      213: -1181096449696997751
+    second: MeeleCharacter_8
+  - first:
+      213: 2584892967276933145
+    second: MeeleCharacter_9
+  - first:
+      213: -3722936074701230310
+    second: MeeleCharacter_10
+  - first:
+      213: 2181152182994146787
+    second: MeeleCharacter_11
+  - first:
+      213: 7525883958678838992
+    second: MeeleCharacter_12
+  - first:
+      213: 1776131404808370528
+    second: MeeleCharacter_13
+  - first:
+      213: -4869837482193645167
+    second: MeeleCharacter_14
+  - first:
+      213: -7401376975891619398
+    second: MeeleCharacter_15
+  - first:
+      213: 8182545482915841100
+    second: MeeleCharacter_16
+  - first:
+      213: 6309467686157874196
+    second: MeeleCharacter_17
+  - first:
+      213: -662610056821890174
+    second: MeeleCharacter_18
+  - first:
+      213: 4409045932207540412
+    second: MeeleCharacter_19
+  - first:
+      213: -2962806627864463103
+    second: MeeleCharacter_20
+  - first:
+      213: -6987649142399460987
+    second: MeeleCharacter_21
+  - first:
+      213: 339294682261664514
+    second: MeeleCharacter_22
+  - first:
+      213: 2385605474067899897
+    second: MeeleCharacter_23
+  - first:
+      213: -1113022666132777463
+    second: MeeleCharacter_24
+  - first:
+      213: -174249279500988629
+    second: MeeleCharacter_25
+  - first:
+      213: 8225533787738947568
+    second: MeeleCharacter_26
+  - first:
+      213: -6332145169141989321
+    second: MeeleCharacter_27
+  - first:
+      213: 297503034191401361
+    second: MeeleCharacter_28
+  - first:
+      213: -6421456402379515442
+    second: MeeleCharacter_29
+  - first:
+      213: -2184335042676176065
+    second: MeeleCharacter_30
+  - first:
+      213: 6465207689137818073
+    second: MeeleCharacter_31
+  - first:
+      213: -5578709146951766217
+    second: MeeleCharacter_32
+  - first:
+      213: 6372918973398987922
+    second: MeeleCharacter_33
+  - first:
+      213: -7858832999770677126
+    second: MeeleCharacter_34
+  - first:
+      213: 1313385459445020231
+    second: MeeleCharacter_35
+  - first:
+      213: 4435950457138211133
+    second: MeeleCharacter_36
+  - first:
+      213: 685997886726246402
+    second: MeeleCharacter_37
+  - first:
+      213: -266911898138223767
+    second: MeeleCharacter_38
+  - first:
+      213: 4816839384633381136
+    second: MeeleCharacter_39
+  - first:
+      213: 9165203289049343651
+    second: MeeleCharacter_40
+  - first:
+      213: 6466019042384960363
+    second: MeeleCharacter_41
+  - first:
+      213: 8881346508801714886
+    second: MeeleCharacter_42
+  - first:
+      213: -8905276383676980664
+    second: MeeleCharacter_43
+  - first:
+      213: -6588912812739408608
+    second: MeeleCharacter_44
+  - first:
+      213: -5264592138541810530
+    second: MeeleCharacter_45
+  - first:
+      213: -5549706553255691375
+    second: MeeleCharacter_46
+  - first:
+      213: -639296479529461747
+    second: MeeleCharacter_47
+  - first:
+      213: 9024538411023047496
+    second: MeeleCharacter_48
+  - first:
+      213: 408273563370326606
+    second: MeeleCharacter_49
+  - first:
+      213: 1399905571668128197
+    second: MeeleCharacter_50
+  - first:
+      213: -2270189894960092132
+    second: MeeleCharacter_51
+  - first:
+      213: -755074250616642408
+    second: MeeleCharacter_52
+  - first:
+      213: -8586982246666311712
+    second: MeeleCharacter_53
+  - first:
+      213: -1358485737673770982
+    second: MeeleCharacter_54
+  - first:
+      213: -8182037037010208465
+    second: MeeleCharacter_55
+  - first:
+      213: 6503662998994552586
+    second: MeeleCharacter_56
+  - first:
+      213: 262701757117763553
+    second: MeeleCharacter_57
+  - first:
+      213: 7874093770849220739
+    second: MeeleCharacter_58
+  - first:
+      213: 4323814977458118783
+    second: MeeleCharacter_59
+  - first:
+      213: -8099283247624211996
+    second: MeeleCharacter_60
+  - first:
+      213: 6611388742051612113
+    second: MeeleCharacter_61
+  - first:
+      213: -2488998282774278371
+    second: MeeleCharacter_62
+  - first:
+      213: -2137752093876697945
+    second: MeeleCharacter_63
+  - first:
+      213: -7273292195690256489
+    second: MeeleCharacter_64
+  - first:
+      213: -7535524903939225202
+    second: MeeleCharacter_65
+  - first:
+      213: -5788728988087698009
+    second: MeeleCharacter_66
+  - first:
+      213: 5060076803981451275
+    second: MeeleCharacter_67
+  - first:
+      213: 4102163719824862110
+    second: MeeleCharacter_68
+  - first:
+      213: -5962873987991106288
+    second: MeeleCharacter_69
+  - first:
+      213: -541764628609196264
+    second: MeeleCharacter_70
+  - first:
+      213: 1860444030323974257
+    second: MeeleCharacter_71
+  - first:
+      213: 1180460335041585066
+    second: MeeleCharacter_72
+  - first:
+      213: 2707540823622222504
+    second: MeeleCharacter_73
+  - first:
+      213: 7044285057341950078
+    second: MeeleCharacter_74
+  - first:
+      213: 1962037736030936986
+    second: MeeleCharacter_75
+  - first:
+      213: -3130721370562946973
+    second: MeeleCharacter_76
+  - first:
+      213: -9001878454434723672
+    second: MeeleCharacter_77
+  - first:
+      213: -4003706326693716770
+    second: MeeleCharacter_78
+  - first:
+      213: -4138809302808530557
+    second: MeeleCharacter_79
+  - first:
+      213: 5070294769835752650
+    second: MeeleCharacter_80
+  - first:
+      213: 1592483446196902525
+    second: MeeleCharacter_81
+  - first:
+      213: 5526721126866951001
+    second: MeeleCharacter_82
+  - first:
+      213: 3399724967445525263
+    second: MeeleCharacter_83
+  - first:
+      213: 6523914621730684666
+    second: MeeleCharacter_84
+  - first:
+      213: -5086016177428008773
+    second: MeeleCharacter_85
+  - first:
+      213: -505049782079968332
+    second: MeeleCharacter_86
+  - first:
+      213: 1824869209826662364
+    second: MeeleCharacter_87
+  - first:
+      213: -4832098991252281457
+    second: MeeleCharacter_88
+  - first:
+      213: 2338428124968605996
+    second: MeeleCharacter_89
+  - first:
+      213: -8983098413826281035
+    second: MeeleCharacter_90
+  - first:
+      213: -3360021542681194534
+    second: MeeleCharacter_91
+  - first:
+      213: -7113276038684258385
+    second: MeeleCharacter_92
+  - first:
+      213: 2846361029985272952
+    second: MeeleCharacter_93
+  - first:
+      213: 8276923164621818481
+    second: MeeleCharacter_94
+  - first:
+      213: -2354163029394222434
+    second: MeeleCharacter_95
+  - first:
+      213: -1372531031031885770
+    second: MeeleCharacter_96
+  - first:
+      213: 9033402556675369889
+    second: MeeleCharacter_97
+  - first:
+      213: 7262624727979329868
+    second: MeeleCharacter_98
+  - first:
+      213: -1104796984063562381
+    second: MeeleCharacter_99
+  - first:
+      213: -3840076932323996033
+    second: MeeleCharacter_100
+  - first:
+      213: -7984395212880616340
+    second: MeeleCharacter_101
+  - first:
+      213: 1209608425779507078
+    second: MeeleCharacter_102
+  - first:
+      213: 2623903774840620926
+    second: MeeleCharacter_103
+  - first:
+      213: 8170030098242274905
+    second: MeeleCharacter_104
+  - first:
+      213: -6130822354643021811
+    second: MeeleCharacter_105
+  - first:
+      213: 1712939329025803266
+    second: MeeleCharacter_106
+  - first:
+      213: -5001242306767344654
+    second: MeeleCharacter_107
+  - first:
+      213: 8874820764296891050
+    second: MeeleCharacter_108
+  - first:
+      213: 7151038986125408551
+    second: MeeleCharacter_109
+  - first:
+      213: -3709864706537139541
+    second: MeeleCharacter_110
+  - first:
+      213: 5531130900787917915
+    second: MeeleCharacter_111
+  - first:
+      213: -6129659555140796219
+    second: MeeleCharacter_112
+  - first:
+      213: -8962155560869248554
+    second: MeeleCharacter_113
+  - first:
+      213: 6156797262723982417
+    second: MeeleCharacter_114
+  - first:
+      213: -7787367940117491734
+    second: MeeleCharacter_115
+  - first:
+      213: -8825392919625365980
+    second: MeeleCharacter_116
+  - first:
+      213: -3021641405433846495
+    second: MeeleCharacter_117
+  - first:
+      213: 4094854584488023408
+    second: MeeleCharacter_118
+  - first:
+      213: 1184086409380847453
+    second: MeeleCharacter_119
+  - first:
+      213: -3226470583475439924
+    second: MeeleCharacter_120
+  - first:
+      213: 7831407630693259909
+    second: MeeleCharacter_121
+  - first:
+      213: 4345875559338476464
+    second: MeeleCharacter_122
+  - first:
+      213: -4987758627021014861
+    second: MeeleCharacter_123
+  - first:
+      213: -1505083481118728851
+    second: MeeleCharacter_124
+  - first:
+      213: -7555955758571807652
+    second: MeeleCharacter_125
+  - first:
+      213: -5787492046437923472
+    second: MeeleCharacter_126
+  - first:
+      213: -7899040916497589614
+    second: MeeleCharacter_127
+  - first:
+      213: -955236665118731989
+    second: MeeleCharacter_128
+  - first:
+      213: 8604796899091178105
+    second: MeeleCharacter_129
+  - first:
+      213: 4687262009619051855
+    second: MeeleCharacter_130
+  - first:
+      213: 99357748799529846
+    second: MeeleCharacter_131
+  - first:
+      213: -951022062272612098
+    second: MeeleCharacter_132
+  - first:
+      213: -1128257400024465947
+    second: MeeleCharacter_133
+  - first:
+      213: 7430334374528168452
+    second: MeeleCharacter_134
+  - first:
+      213: -3121345256671813665
+    second: MeeleCharacter_135
+  - first:
+      213: 1361590986317907823
+    second: MeeleCharacter_136
+  - first:
+      213: -1616463785169889565
+    second: MeeleCharacter_137
+  - first:
+      213: -8626859174760039465
+    second: MeeleCharacter_138
+  - first:
+      213: -7309434929359148161
+    second: MeeleCharacter_139
+  - first:
+      213: 3151197626460249786
+    second: MeeleCharacter_140
+  - first:
+      213: 2550225039531256922
+    second: MeeleCharacter_141
+  - first:
+      213: -4127416257582838550
+    second: MeeleCharacter_142
+  - first:
+      213: 229533761974673845
+    second: MeeleCharacter_143
+  - first:
+      213: -740387607972259374
+    second: MeeleCharacter_144
+  - first:
+      213: -7103538589962297795
+    second: MeeleCharacter_145
+  - first:
+      213: -3531232352496605110
+    second: MeeleCharacter_146
+  - first:
+      213: 5266406602229996072
+    second: MeeleCharacter_147
+  - first:
+      213: 152835933645655987
+    second: MeeleCharacter_148
+  - first:
+      213: 7500439839528036121
+    second: MeeleCharacter_149
+  - first:
+      213: 5515210472534916223
+    second: MeeleCharacter_150
+  - first:
+      213: -8064845104304507214
+    second: MeeleCharacter_151
+  - first:
+      213: -5906551225295709055
+    second: MeeleCharacter_152
+  - first:
+      213: 3930277821105462802
+    second: MeeleCharacter_153
+  - first:
+      213: 6261127124130279991
+    second: MeeleCharacter_154
+  - first:
+      213: 7625296640252137771
+    second: MeeleCharacter_155
+  - first:
+      213: 895716978458438615
+    second: MeeleCharacter_156
+  - first:
+      213: -6182169136088346407
+    second: MeeleCharacter_157
+  - first:
+      213: -2227815817459855088
+    second: MeeleCharacter_158
+  - first:
+      213: -6904252359231603730
+    second: MeeleCharacter_159
+  - first:
+      213: 4703864614661945036
+    second: MeeleCharacter_160
+  - first:
+      213: -5884080267324353989
+    second: MeeleCharacter_161
+  - first:
+      213: 6346903927726523924
+    second: MeeleCharacter_162
+  - first:
+      213: -5860172079416031477
+    second: MeeleCharacter_163
+  - first:
+      213: 8284306509279666366
+    second: MeeleCharacter_164
+  - first:
+      213: -5127022826239143975
+    second: MeeleCharacter_165
+  - first:
+      213: -2255077320199085042
+    second: MeeleCharacter_166
+  - first:
+      213: 8717848804563619275
+    second: MeeleCharacter_167
+  - first:
+      213: -4751660786597681439
+    second: MeeleCharacter_168
+  - first:
+      213: 7784761825710152078
+    second: MeeleCharacter_169
+  - first:
+      213: 3741727996279586213
+    second: MeeleCharacter_170
+  - first:
+      213: 2179731329210685047
+    second: MeeleCharacter_171
+  - first:
+      213: 7931688209972420928
+    second: MeeleCharacter_172
+  - first:
+      213: 7528817120466560839
+    second: MeeleCharacter_173
+  - first:
+      213: 211234817621009920
+    second: MeeleCharacter_174
+  - first:
+      213: -7060538980394997709
+    second: MeeleCharacter_175
+  - first:
+      213: 5472444635608300479
+    second: MeeleCharacter_176
+  - first:
+      213: 1200035088251466751
+    second: MeeleCharacter_177
+  - first:
+      213: 1695176603801776271
+    second: MeeleCharacter_178
+  - first:
+      213: 3939006961436263285
+    second: MeeleCharacter_179
+  - first:
+      213: 2611961517251437669
+    second: MeeleCharacter_180
+  - first:
+      213: 7860588754169137063
+    second: MeeleCharacter_181
+  - first:
+      213: -8892410360282740346
+    second: MeeleCharacter_182
+  - first:
+      213: -8242964167594312778
+    second: MeeleCharacter_183
+  - first:
+      213: -3502171103910247513
+    second: MeeleCharacter_184
+  - first:
+      213: -124792423115004877
+    second: MeeleCharacter_185
+  - first:
+      213: -452673799587454898
+    second: MeeleCharacter_186
+  - first:
+      213: 862414049581105240
+    second: MeeleCharacter_187
+  - first:
+      213: -6449096233925394830
+    second: MeeleCharacter_188
+  - first:
+      213: -6103457526733413743
+    second: MeeleCharacter_189
+  - first:
+      213: 3432713803205888439
+    second: MeeleCharacter_190
+  - first:
+      213: 2290265327973996320
+    second: MeeleCharacter_191
+  - first:
+      213: -8858843449212743318
+    second: MeeleCharacter_192
+  - first:
+      213: -2639813857568092826
+    second: MeeleCharacter_193
+  - first:
+      213: -5307512155696705073
+    second: MeeleCharacter_194
+  - first:
+      213: 7916417070194499632
+    second: MeeleCharacter_195
+  - first:
+      213: -438630612499849701
+    second: MeeleCharacter_196
+  - first:
+      213: 8409527111684062252
+    second: MeeleCharacter_197
+  - first:
+      213: -7282852596925121376
+    second: MeeleCharacter_198
+  - first:
+      213: 8873065762574292696
+    second: MeeleCharacter_199
+  - first:
+      213: -3975541521730950235
+    second: MeeleCharacter_200
+  - first:
+      213: 3964266968621263191
+    second: MeeleCharacter_201
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeeleCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2047
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406144d0a584470d0800000000000000
+      internalID: -3426033864915282428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2047
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49facf37cba22c0800000000000000
+      internalID: -4455541674983058224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2047
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebde27752b660540800000000000000
+      internalID: 4973780647134813157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2047
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e63b8fc952b38d0800000000000000
+      internalID: -2865655381773554062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2047
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c21b57c5b0ad0c0800000000000000
+      internalID: -4550311981765022624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2047
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f73b31f8f02be90800000000000000
+      internalID: -7011524562677170361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2047
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca16f6d2404a370800000000000000
+      internalID: 8332789803730971887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1983
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4819f8cb890caa0800000000000000
+      internalID: -6142741956103404330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1983
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed5566907eb9fe0800000000000000
+      internalID: -1181096449696997751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1983
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91072f855726fd320800000000000000
+      internalID: 2584892967276933145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1983
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f22f17d59755cc0800000000000000
+      internalID: -3722936074701230310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1983
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51f6caa52054e10800000000000000
+      internalID: 2181152182994146787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1983
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dedcd9269f417860800000000000000
+      internalID: 7525883958678838992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1983
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b4023a1616a810800000000000000
+      internalID: 1776131404808370528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1919
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19117f78c9cda6cb0800000000000000
+      internalID: -4869837482193645167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1919
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a937cad6094990800000000000000
+      internalID: -7401376975891619398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1919
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c440da383cd3e8170800000000000000
+      internalID: 8182545482915841100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1919
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fe3b7e6bbf8750800000000000000
+      internalID: 6309467686157874196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1919
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a78af9afedc6f0800000000000000
+      internalID: -662610056821890174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1919
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb88c9b4ae3103d30800000000000000
+      internalID: 4409045932207540412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1919
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10937ffc11ff1e6d0800000000000000
+      internalID: -2962806627864463103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1855
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589973c8022e60f90800000000000000
+      internalID: -6987649142399460987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1855
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b26247ba65b400800000000000000
+      internalID: 339294682261664514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1855
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56b080a8f5b1120800000000000000
+      internalID: 2385605474067899897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1855
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906923e38cfbd80f0800000000000000
+      internalID: -1113022666132777463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1855
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc9f81431f49df0800000000000000
+      internalID: -174249279500988629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1855
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff37223667f62270800000000000000
+      internalID: 8225533787738947568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1855
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730061f8483bf18a0800000000000000
+      internalID: -6332145169141989321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1791
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1915490fe61f02400800000000000000
+      internalID: 297503034191401361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1791
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9d283ac6762e6a0800000000000000
+      internalID: -6421456402379515442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1791
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b49de0adeafa1e0800000000000000
+      internalID: -2184335042676176065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1791
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90f2e932809b950800000000000000
+      internalID: 6465207689137818073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fa7be86917492b0800000000000000
+      internalID: -5578709146951766217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943bc78a08217850800000000000000
+      internalID: 6372918973398987922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_34
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702d8b4601dfe290800000000000000
+      internalID: -7858832999770677126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1791
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463263ed151a3210800000000000000
+      internalID: 1313385459445020231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1727
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3964f62079af8d30800000000000000
+      internalID: 4435950457138211133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1727
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009cf28177258900800000000000000
+      internalID: 685997886726246402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1727
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b5525fa0dbb4cf0800000000000000
+      internalID: -266911898138223767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1727
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111f2d46e9d8d240800000000000000
+      internalID: 4816839384633381136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1727
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6270205d7513f70800000000000000
+      internalID: 9165203289049343651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1727
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b54448f0aebb950800000000000000
+      internalID: 6466019042384960363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1727
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca28482891e04b70800000000000000
+      internalID: 8881346508801714886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1727
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842224caf4a1a6480800000000000000
+      internalID: -8905276383676980664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1663
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc5a4d4ba7f84a0800000000000000
+      internalID: -6588912812739408608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1663
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb6eec75960f6b0800000000000000
+      internalID: -5264592138541810530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1663
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b798d1b4b7bf2b0800000000000000
+      internalID: -5549706553255691375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1664
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081d7f2d33c027f0800000000000000
+      internalID: -639296479529461747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1664
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b95eaeed99d3d70800000000000000
+      internalID: 9024538411023047496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1663
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0fdb84aa7aa500800000000000000
+      internalID: 408273563370326606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1664
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17e5e43b67d6310800000000000000
+      internalID: 1399905571668128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1664
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce83a815aae70e0800000000000000
+      internalID: -2270189894960092132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1599
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89463f838ff6585f0800000000000000
+      internalID: -755074250616642408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1599
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76ed67429e4d880800000000000000
+      internalID: -8586982246666311712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1599
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18358d4b60b52de0800000000000000
+      internalID: -1358485737673770982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1599
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29bae54aa0937e80800000000000000
+      internalID: -8182037037010208465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1599
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070ce92a07a14a50800000000000000
+      internalID: 6503662998994552586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1599
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef00e23bdd45a300800000000000000
+      internalID: 262701757117763553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1599
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388759bd096664d60800000000000000
+      internalID: 7874093770849220739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1599
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a7ed30d6410c30800000000000000
+      internalID: 4323814977458118783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e136125cc0999f80800000000000000
+      internalID: -8099283247624211996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c002480f50cb50800000000000000
+      internalID: 6611388742051612113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f8ea4cf3d457dd0800000000000000
+      internalID: -2488998282774278371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1535
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c1a20ccd2552e0800000000000000
+      internalID: -2137752093876697945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e2489843101b90800000000000000
+      internalID: -7273292195690256489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c79856007c6790800000000000000
+      internalID: -7535524903939225202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1535
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb604c7ad4aafa0800000000000000
+      internalID: -5788728988087698009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1535
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0022853b01093640800000000000000
+      internalID: 5060076803981451275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1535
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be7a24b20dde830800000000000000
+      internalID: 4102163719824862110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1471
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d8f5953bd9f3da0800000000000000
+      internalID: -5962873987991106288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1471
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f90efc0f34b78f0800000000000000
+      internalID: -541764628609196264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1471
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170e4ff0dff91d910800000000000000
+      internalID: 1860444030323974257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1471
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf979d9b66d16010800000000000000
+      internalID: 1180460335041585066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1471
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a20fdea80e139520800000000000000
+      internalID: 2707540823622222504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_74
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1471
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78857bffe352c160800000000000000
+      internalID: 7044285057341950078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1471
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f1904fcee8a3b10800000000000000
+      internalID: 1962037736030936986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_76
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1471
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681fd030817d84d0800000000000000
+      internalID: -3130721370562946973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_77
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1471
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80d2c5d37e21380800000000000000
+      internalID: -9001878454434723672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcdf64fe4aff68c0800000000000000
+      internalID: -4003706326693716770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f3011edeff86c0800000000000000
+      internalID: -4138809302808530557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb496ca3e4d5640800000000000000
+      internalID: 5070294769835752650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1407
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9149c143a91610800000000000000
+      internalID: 1592483446196902525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1407
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b1d83459bd2bc40800000000000000
+      internalID: 5526721126866951001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fd9a68df3e2f20800000000000000
+      internalID: 3399724967445525263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afefb3588c9998a50800000000000000
+      internalID: 6523914621730684666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1407
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07386cb37da69b0800000000000000
+      internalID: -5086016177428008773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1407
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2c3926e3bdf8f0800000000000000
+      internalID: -505049782079968332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1343
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71445b0ec335910800000000000000
+      internalID: 1824869209826662364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1343
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8762eaa19fe0fcb0800000000000000
+      internalID: -4832098991252281457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1343
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2959897df3c37020800000000000000
+      internalID: 2338428124968605996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1343
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1728d469f955380800000000000000
+      internalID: -8983098413826281035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1343
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc3d6853ece51d0800000000000000
+      internalID: -3360021542681194534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1343
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4dec6121984d90800000000000000
+      internalID: -7113276038684258385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1343
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87489cea64e408720800000000000000
+      internalID: 2846361029985272952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1343
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4c74e3c98dd270800000000000000
+      internalID: 8276923164621818481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1343
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9299999235545fd0800000000000000
+      internalID: -2354163029394222434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1279
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d42c9c4ac3fce0800000000000000
+      internalID: -1372531031031885770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1279
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abadb7a3c71d5d70800000000000000
+      internalID: 9033402556675369889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_98
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1279
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490d2806b60ac460800000000000000
+      internalID: 7262624727979329868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1279
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de7f71ff8faa0f0800000000000000
+      internalID: -1104796984063562381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1279
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e08aa206e45bac0800000000000000
+      internalID: -3840076932323996033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1279
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ebe56bdab13190800000000000000
+      internalID: -7984395212880616340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1215
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f28e7547469c010800000000000000
+      internalID: 1209608425779507078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1215
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778e28c49af96420800000000000000
+      internalID: 2623903774840620926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1215
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560bf17617c16170800000000000000
+      internalID: 8170030098242274905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1215
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d009a7a0d81faeaa0800000000000000
+      internalID: -6130822354643021811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1215
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20401648e3595c710800000000000000
+      internalID: 1712939329025803266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1215
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2a75ae94089ab0800000000000000
+      internalID: -5001242306767344654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa4d2dd672b92b70800000000000000
+      internalID: 8874820764296891050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72979fee1189d3360800000000000000
+      internalID: 7151038986125408551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_110
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1151
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2581284b9e38cc0800000000000000
+      internalID: -3709864706537139541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1151
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5476a3cf3682cc40800000000000000
+      internalID: 5531130900787917915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1151
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c001c56c131feaa0800000000000000
+      internalID: -6129659555140796219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_113
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1151
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c89c300700a380800000000000000
+      internalID: -8962155560869248554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1087
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154a2c68d76517550800000000000000
+      internalID: 6156797262723982417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1087
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef08022e16bde390800000000000000
+      internalID: -7787367940117491734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1087
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268b7606e7e58580800000000000000
+      internalID: -8825392919625365980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1087
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e08ea629f016d0800000000000000
+      internalID: -3021641405433846495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1087
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d9439c88d3d830800000000000000
+      internalID: 4094854584488023408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1087
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5386d058be6010800000000000000
+      internalID: 1184086409380847453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1023
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f2b159164933d0800000000000000
+      internalID: -3226470583475439924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a51ce5fbfbeac60800000000000000
+      internalID: 7831407630693259909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30c68bbc6af4c30800000000000000
+      internalID: 4345875559338476464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_123
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8b50b74fbe7cab0800000000000000
+      internalID: -4987758627021014861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d1c965c8edc1be0800000000000000
+      internalID: -1505083481118728851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c92cf454ad32790800000000000000
+      internalID: -7555955758571807652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0754bafa5a2beafa0800000000000000
+      internalID: -5787492046437923472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a92e92328f06290800000000000000
+      internalID: -7899040916497589614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215b2b60515eb2f0800000000000000
+      internalID: -955236665118731989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97266b680316a6770800000000000000
+      internalID: 8604796899091178105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_130
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f68ca6ff7c0140800000000000000
+      internalID: 4687262009619051855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e0ea985df06100800000000000000
+      internalID: 99357748799529846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_132
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87eac197a4dc2f0800000000000000
+      internalID: -951022062272612098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 959
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf5585fdf9750f0800000000000000
+      internalID: -1128257400024465947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 959
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402302cfeb9dd1760800000000000000
+      internalID: 7430334374528168452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 959
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd9b2d601cea4d0800000000000000
+      internalID: -3121345256671813665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f674adcb9c755e210800000000000000
+      internalID: 1361590986317907823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65aa470ca2199e0800000000000000
+      internalID: -1616463785169889565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbb11a94d374880800000000000000
+      internalID: -8626859174760039465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b27b6a8abaf8a90800000000000000
+      internalID: -7309434929359148161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9736ab8d4bbb20800000000000000
+      internalID: 3151197626460249786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 959
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c219a6928346320800000000000000
+      internalID: 2550225039531256922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4a9e18c878b6c0800000000000000
+      internalID: -4127416257582838550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a57a8db77f2300800000000000000
+      internalID: 229533761974673845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d956bea46d99b5f0800000000000000
+      internalID: -740387607972259374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9401e9492b6d90800000000000000
+      internalID: -7103538589962297795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a21a72ea8efec0800000000000000
+      internalID: -3531232352496605110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad0b0f6e8061940800000000000000
+      internalID: 5266406602229996072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4dddc87bfe1200800000000000000
+      internalID: 152835933645655987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a1468b4ae61860800000000000000
+      internalID: 7500439839528036121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c35f434b6f98c40800000000000000
+      internalID: 5515210472534916223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b1656b1ae31090800000000000000
+      internalID: -8064845104304507214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd99074f6b70ea0800000000000000
+      internalID: -5906551225295709055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5693dad62b8630800000000000000
+      internalID: 3930277821105462802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732395f42fdf3e650800000000000000
+      internalID: 6261127124130279991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21553dc4ee72d960800000000000000
+      internalID: 7625296640252137771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 895
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2d40a8d93e6c00800000000000000
+      internalID: 895716978458438615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 895
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0121edce5843aa0800000000000000
+      internalID: -6182169136088346407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 895
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111f4741553511e0800000000000000
+      internalID: -2227815817459855088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf8504f0b2f20a0800000000000000
+      internalID: -6904252359231603730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67474e1fb774140800000000000000
+      internalID: 4703864614661945036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 831
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321f3c0c2c875ea0800000000000000
+      internalID: -5884080267324353989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cba3be7bb41850800000000000000
+      internalID: 6346903927726523924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ceb3da8c7caea0800000000000000
+      internalID: -5860172079416031477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 831
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02218c0e4c7f270800000000000000
+      internalID: 8284306509279666366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df42b657e729d8b0800000000000000
+      internalID: -5127022826239143975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e046e7c002b54b0e0800000000000000
+      internalID: -2255077320199085042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 831
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd04917c450cf870800000000000000
+      internalID: 8717848804563619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e621b1a0b5be0eb0800000000000000
+      internalID: -4751660786597681439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 831
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89997292a7090c60800000000000000
+      internalID: 7784761825710152078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf060c9c94de330800000000000000
+      internalID: 3741727996279586213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776946f5816ff3e10800000000000000
+      internalID: 2179731329210685047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416f803764031e60800000000000000
+      internalID: 7931688209972420928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 767
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e94c184bbb7860800000000000000
+      internalID: 7528817120466560839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_174
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 767
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ae7c82f47ee200800000000000000
+      internalID: 211234817621009920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_175
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 767
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e1c6a43de30e90800000000000000
+      internalID: -7060538980394997709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_176
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbbc6ed66702fb40800000000000000
+      internalID: 5472444635608300479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bb310e8167a010800000000000000
+      internalID: 1200035088251466751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f807825c32a768710800000000000000
+      internalID: 1695176603801776271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 639
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573033036f92aa630800000000000000
+      internalID: 3939006961436263285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_180
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 639
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56423c2492d8f3420800000000000000
+      internalID: 2611961517251437669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_181
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 639
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78ea123db661d60800000000000000
+      internalID: 7860588754169137063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_182
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 639
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689085e24efc79480800000000000000
+      internalID: -8892410360282740346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_183
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 639
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb744e33cb1b9d80800000000000000
+      internalID: -8242964167594312778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_184
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 447
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cac0bfe9c56fc0800000000000000
+      internalID: -3502171103910247513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e19dc3f5a44ef0800000000000000
+      internalID: -124792423115004877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_186
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 447
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a670e397c7b9f0800000000000000
+      internalID: -452673799587454898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_187
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 447
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85086924209e7fb00800000000000000
+      internalID: 862414049581105240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_188
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 447
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e319ed4253086a0800000000000000
+      internalID: -6449096233925394830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_189
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 447
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ee5987b92c4ba0800000000000000
+      internalID: -6103457526733413743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9caa7440373af20800000000000000
+      internalID: 3432713803205888439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_191
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02798437e28a8cf10800000000000000
+      internalID: 2290265327973996320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_192
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 255
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d0e0b1d01f0580800000000000000
+      internalID: -8858843449212743318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_193
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 255
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d008a684f7d5bd0800000000000000
+      internalID: -2639813857568092826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_194
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 255
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc151a690dde756b0800000000000000
+      internalID: -5307512155696705073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_195
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 255
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03028c2e163ccdd60800000000000000
+      internalID: 7916417070194499632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_196
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e955a28cba9e9f0800000000000000
+      internalID: -438630612499849701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 63
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf1fc3a54a4b470800000000000000
+      internalID: 8409527111684062252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_198
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 63
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac3fb8362c1eea90800000000000000
+      internalID: -7282852596925121376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_199
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 63
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6dbeeac46732b70800000000000000
+      internalID: 8873065762574292696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_200
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab296f9c0a04d8c0800000000000000
+      internalID: -3975541521730950235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleCharacter_201
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 63
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7592c7bedc7e30730800000000000000
+      internalID: 3964266968621263191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
