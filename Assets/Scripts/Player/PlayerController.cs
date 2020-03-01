@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public int Gold;
+    public int Health;
+    public Dictionary<string, int> BoughtUpgrades;
     private AttackController attackController;
     private PlayerMovementController playerMovementController;
-
     private void Awake()
     {
         attackController = transform.GetComponent<AttackController>();
