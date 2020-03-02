@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Drawing;
 using UnityEngine;
 
 public class RoomController : MonoBehaviour
@@ -7,6 +8,7 @@ public class RoomController : MonoBehaviour
     public List<GameObject> nextRooms;
     public Direction entrance;
     public List<DoorController> doors;
+    public List<Vector3> nextRoomsPositions; 
    
     public bool cleared;
 
@@ -31,7 +33,9 @@ public class RoomController : MonoBehaviour
 
     void RoomClear()
     {
-        doors.ForEach(x => { x.Open = true; x.NextRoom = nextRooms[0]; });
+        List<Vector3> connectedRooms = null;// this.transform.position
+        nextRoomsPositions.ForEach(x => connectedRooms.Add(new Vector3(x.x + this.transform.position.x, x.y + this.transform.position.y)));
+        doors.ForEach(x => { x.OpenDoor(nextRooms[0], connectedRooms); });
     }
 
     void RoomLoockDown()
@@ -39,8 +43,7 @@ public class RoomController : MonoBehaviour
         if (doors == null)
         {
             
-            doors.ForEach(x => x.Open = false);
-            doors[(int)entrance].Open = false;
+            doors.ForEach(x => x.CloseDoor());
         }
     }
 
