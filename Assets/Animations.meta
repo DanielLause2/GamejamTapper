@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 2f161de36ca2d80468e1afb40cc0a59d
+=======
 <<<<<<< HEAD:Assets/2D_IsoTilemaps_Project/Assets.meta
 guid: 98e56b9b6d89a5f49925208e1244becc
 =======
 guid: a46b48f5f496d2249a7368e64b42815a
 >>>>>>> master:Assets/Animations.meta
+>>>>>>> master
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
